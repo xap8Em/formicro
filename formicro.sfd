@@ -1,0 +1,1101 @@
+SplineFontDB: 3.2
+FontName: formicro
+FullName: Formicro
+FamilyName: Formicro
+Weight: Regular
+Copyright: 
+Version: 1.0.0
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 1000
+Descent: 0
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 424 -602532898 7256]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1725543967
+ModificationTime: 1725545347
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 90
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "u8p" "" "" "https://s5fese.tumblr.com/" "Creative Commons Legal Code+AAoACgAA-CC0 1.0 Universal+AAoACgAA    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE+AAoA    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN+AAoA    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS+AAoA    INFORMATION ON AN +ACIA-AS-IS+ACIA BASIS. CREATIVE COMMONS MAKES NO WARRANTIES+AAoA    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS+AAoA    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM+AAoA    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED+AAoA    HEREUNDER.+AAoACgAA-Statement of Purpose+AAoACgAA-The laws of most jurisdictions throughout the world automatically confer+AAoA-exclusive Copyright and Related Rights (defined below) upon the creator+AAoA-and subsequent owner(s) (each and all, an +ACIA-owner+ACIA) of an original work of+AAoA-authorship and/or a database (each, a +ACIA-Work+ACIA).+AAoACgAA-Certain owners wish to permanently relinquish those rights to a Work for+AAoA-the purpose of contributing to a commons of creative, cultural and+AAoA-scientific works (+ACIA-Commons+ACIA) that the public can reliably and without fear+AAoA-of later claims of infringement build upon, modify, incorporate in other+AAoA-works, reuse and redistribute as freely as possible in any form whatsoever+AAoA-and for any purposes, including without limitation commercial purposes.+AAoA-These owners may contribute to the Commons to promote the ideal of a free+AAoA-culture and the further production of creative, cultural and scientific+AAoA-works, or to gain reputation or greater distribution for their Work in+AAoA-part through the use and efforts of others.+AAoACgAA-For these and/or other purposes and motivations, and without any+AAoA-expectation of additional consideration or compensation, the person+AAoA-associating CC0 with a Work (the +ACIA-Affirmer+ACIA), to the extent that he or she+AAoA-is an owner of Copyright and Related Rights in the Work, voluntarily+AAoA-elects to apply CC0 to the Work and publicly distribute the Work under its+AAoA-terms, with knowledge of his or her Copyright and Related Rights in the+AAoA-Work and the meaning and intended legal effect of CC0 on those rights.+AAoACgAA-1. Copyright and Related Rights. A Work made available under CC0 may be+AAoA-protected by copyright and related or neighboring rights (+ACIA-Copyright and+AAoA-Related Rights+ACIA). Copyright and Related Rights include, but are not+AAoA-limited to, the following:+AAoACgAA  i. the right to reproduce, adapt, distribute, perform, display,+AAoA     communicate, and translate a Work;+AAoA ii. moral rights retained by the original author(s) and/or performer(s);+AAoA-iii. publicity and privacy rights pertaining to a person's image or+AAoA     likeness depicted in a Work;+AAoA iv. rights protecting against unfair competition in regards to a Work,+AAoA     subject to the limitations in paragraph 4(a), below;+AAoA  v. rights protecting the extraction, dissemination, use and reuse of data+AAoA     in a Work;+AAoA vi. database rights (such as those arising under Directive 96/9/EC of the+AAoA     European Parliament and of the Council of 11 March 1996 on the legal+AAoA     protection of databases, and under any national implementation+AAoA     thereof, including any amended or successor version of such+AAoA     directive); and+AAoA-vii. other similar, equivalent or corresponding rights throughout the+AAoA     world based on applicable law or treaty, and any national+AAoA     implementations thereof.+AAoACgAA-2. Waiver. To the greatest extent permitted by, but not in contravention+AAoA-of, applicable law, Affirmer hereby overtly, fully, permanently,+AAoA-irrevocably and unconditionally waives, abandons, and surrenders all of+AAoA-Affirmer's Copyright and Related Rights and associated claims and causes+AAoA-of action, whether now known or unknown (including existing as well as+AAoA-future claims and causes of action), in the Work (i) in all territories+AAoA-worldwide, (ii) for the maximum duration provided by applicable law or+AAoA-treaty (including future time extensions), (iii) in any current or future+AAoA-medium and for any number of copies, and (iv) for any purpose whatsoever,+AAoA-including without limitation commercial, advertising or promotional+AAoA-purposes (the +ACIA-Waiver+ACIA). Affirmer makes the Waiver for the benefit of each+AAoA-member of the public at large and to the detriment of Affirmer's heirs and+AAoA-successors, fully intending that such Waiver shall not be subject to+AAoA-revocation, rescission, cancellation, termination, or any other legal or+AAoA-equitable action to disrupt the quiet enjoyment of the Work by the public+AAoA-as contemplated by Affirmer's express Statement of Purpose.+AAoACgAA-3. Public License Fallback. Should any part of the Waiver for any reason+AAoA-be judged legally invalid or ineffective under applicable law, then the+AAoA-Waiver shall be preserved to the maximum extent permitted taking into+AAoA-account Affirmer's express Statement of Purpose. In addition, to the+AAoA-extent the Waiver is so judged Affirmer hereby grants to each affected+AAoA-person a royalty-free, non transferable, non sublicensable, non exclusive,+AAoA-irrevocable and unconditional license to exercise Affirmer's Copyright and+AAoA-Related Rights in the Work (i) in all territories worldwide, (ii) for the+AAoA-maximum duration provided by applicable law or treaty (including future+AAoA-time extensions), (iii) in any current or future medium and for any number+AAoA-of copies, and (iv) for any purpose whatsoever, including without+AAoA-limitation commercial, advertising or promotional purposes (the+AAoAIgAA-License+ACIA). The License shall be deemed effective as of the date CC0 was+AAoA-applied by Affirmer to the Work. Should any part of the License for any+AAoA-reason be judged legally invalid or ineffective under applicable law, such+AAoA-partial invalidity or ineffectiveness shall not invalidate the remainder+AAoA-of the License, and in such case Affirmer hereby affirms that he or she+AAoA-will not (i) exercise any of his or her remaining Copyright and Related+AAoA-Rights in the Work or (ii) assert any associated claims and causes of+AAoA-action with respect to the Work, in either case contrary to Affirmer's+AAoA-express Statement of Purpose.+AAoACgAA-4. Limitations and Disclaimers.+AAoACgAA a. No trademark or patent rights held by Affirmer are waived, abandoned,+AAoA    surrendered, licensed or otherwise affected by this document.+AAoA b. Affirmer offers the Work as-is and makes no representations or+AAoA    warranties of any kind concerning the Work, express, implied,+AAoA    statutory or otherwise, including without limitation warranties of+AAoA    title, merchantability, fitness for a particular purpose, non+AAoA    infringement, or the absence of latent or other defects, accuracy, or+AAoA    the present or absence of errors, whether or not discoverable, all to+AAoA    the greatest extent permissible under applicable law.+AAoA c. Affirmer disclaims responsibility for clearing rights of other persons+AAoA    that may apply to the Work or any use thereof, including without+AAoA    limitation any person's Copyright and Related Rights in the Work.+AAoA    Further, Affirmer disclaims responsibility for obtaining any necessary+AAoA    consents, permissions or other rights required for any use of the+AAoA    Work.+AAoA d. Affirmer understands and acknowledges that Creative Commons is not a+AAoA    party to this document and has no duty or obligation with respect to+AAoA    this CC0 or use of the Work.+AAoA" "https://creativecommons.org/publicdomain/zero/1.0/"
+Encoding: Original
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 13
+BeginPrivate: 0
+EndPrivate
+BeginChars: 38 37
+
+StartChar: .notdef
+Encoding: 0 0 0
+Width: 571
+VWidth: 1024
+HStem: 0 1024<0 1000>
+VStem: 0 1000<0 1024>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 1024 l 1
+ 1000 1024 l 1
+ 1000 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: 
+Encoding: 1 48 1
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 142.85742 0 l 1
+ 142.85742 142.85742 l 1
+ 0 142.85742 l 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+142.85742 571.42773 m 1
+ 285.71484 571.42773 l 1
+ 285.71484 857.14258 l 1
+ 142.85715 857.14285 l 1
+ 142.85742 571.42773 l 1
+142.85715 142.85712 m 1
+ 285.71484 142.85742 l 1
+ 285.71484 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85715 142.85712 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 2 49 2
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+142.85715 1000 m 1
+ 285.7143 1000 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 714.2857 l 1
+ 0 714.2857 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 3 50 3
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+142.85715 1000 m 1
+ 285.7143 1000 l 1
+ 285.7143 857.14285 l 1
+ 428.57146 857.14285 l 1
+ 428.57146 428.57139 l 1
+ 285.7143 428.57139 l 1
+ 285.7143 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 142.85709 l 1
+ 428.57146 142.85709 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 428.57139 l 1
+ 285.7143 428.57139 l 1
+ 285.7143 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 571.42854 l 1
+ 0 571.42854 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 4 51 4
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+142.85715 1000 m 1
+ 285.7143 1000 l 1
+ 285.7143 857.14285 l 1
+ 428.57146 857.14285 l 1
+ 428.57146 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 428.57139 l 1
+ 428.57146 428.57139 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 714.2857 l 1
+ 0 714.2857 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 5 52 5
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+428.57227 1000 m 1
+ 428.57227 0 l 1
+ 285.71484 0 l 1
+ 285.71484 142.85742 l 1
+ 0 142.85742 l 1
+ 0 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85742 714.28516 l 1
+ 285.71484 714.28516 l 1
+ 285.71484 1000 l 1
+ 428.57227 1000 l 1
+142.85742 428.57227 m 1
+ 142.85742 285.71484 l 1
+ 285.71484 285.71484 l 1
+ 285.71484 428.57227 l 1
+ 142.85742 428.57227 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 6 53 6
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 571.42854 l 1
+ 428.57146 571.42854 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 571.42854 l 1
+ 142.85715 571.42854 l 1
+ 142.85715 428.57139 l 1
+ 0 428.57139 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 7 54 7
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+428.57227 857.14258 m 1
+ 428.57227 714.28516 l 1
+ 285.71484 714.28516 l 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+285.71484 571.42773 m 1
+ 428.57227 571.42773 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 142.85742 0 l 1
+ 142.85742 142.85742 l 1
+ 0 142.85742 l 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 714.28516 l 1
+ 285.71484 714.28516 l 1
+ 285.71484 571.42773 l 1
+142.85742 142.85742 m 1
+ 285.71484 142.85742 l 1
+ 285.71484 571.42773 l 1
+ 142.85742 571.42773 l 1
+ 142.85742 142.85742 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 8 55 8
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 857.14285 l 1
+ 0 857.14285 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 9 56 9
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 571.42773 l 1
+ 285.71484 571.42773 l 1
+ 285.71484 428.57227 l 1
+ 428.57227 428.57227 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 142.85742 0 l 1
+ 142.85742 142.85742 l 1
+ 0 142.85742 l 1
+ 0 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85742 571.42773 l 1
+ 0 571.42773 l 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+142.85715 571.42856 m 1
+ 285.71484 571.42773 l 1
+ 285.71484 857.14258 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 571.42856 l 1
+142.85715 142.85712 m 1
+ 285.71429 142.85712 l 1
+ 285.71484 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85715 142.85712 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 10 57 10
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 285.71484 l 1
+ 142.85742 285.71484 l 1
+ 142.85742 428.57227 l 1
+ 0 428.57227 l 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+285.71484 0 m 1
+ 142.85742 0 l 1
+ 142.85742 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+0 142.85742 m 1
+ 0 285.71484 l 1
+ 142.85742 285.71484 l 1
+ 142.85742 142.85742 l 1
+ 0 142.85742 l 1
+142.85715 428.57141 m 1
+ 285.71429 428.57141 l 1
+ 285.71484 857.14258 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 428.57141 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 11 65 11
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 571.42773 l 1
+ 428.57227 571.42773 l 1
+ 428.57227 0 l 1
+ 285.71484 0 l 1
+ 285.71484 285.71484 l 1
+ 142.85742 285.71484 l 1
+ 142.85742 0 l 1
+ 0 0 l 1
+ 0 571.42773 l 1
+ 142.85742 571.42773 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+142.85715 428.57141 m 1
+ 285.71429 428.57141 l 1
+ 285.71484 571.42773 l 1
+ 142.85742 571.42773 l 1
+ 142.85715 428.57141 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 12 66 12
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 571.42773 l 1
+ 285.71484 571.42773 l 1
+ 285.71484 428.57227 l 1
+ 428.57227 428.57227 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 0 0 l 1
+ 0 1000 l 1
+ 285.71484 1000 l 1
+142.85715 857.14285 m 1
+ 142.85715 571.42856 l 1
+ 285.71429 571.42856 l 1
+ 285.71429 857.14285 l 1
+ 142.85715 857.14285 l 1
+142.85715 142.85712 m 1
+ 285.71429 142.85712 l 1
+ 285.71429 428.57141 l 1
+ 142.85715 428.57141 l 1
+ 142.85715 142.85712 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 13 67 13
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+142.85715 1000 m 1
+ 285.7143 1000 l 1
+ 285.7143 857.14285 l 1
+ 428.57146 857.14285 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 285.71424 l 1
+ 428.57146 285.71424 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 14 68 14
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 0 0 l 1
+ 0 1000 l 1
+ 285.71484 1000 l 1
+142.85715 142.85712 m 1
+ 285.71429 142.85712 l 1
+ 285.71429 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 142.85712 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 15 69 15
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 142.85709 l 1
+ 428.57146 142.85709 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 16 70 16
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 17 71 17
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.7143 142.85709 m 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57141 l 1
+ 142.85715 571.42856 l 1
+ 428.57146 571.42854 l 1
+ 428.57146 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85712 l 1
+ 0 142.85709 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+ 285.7143 1000 l 1
+ 285.7143 857.14285 l 1
+ 428.57146 857.14285 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 142.85712 l 1
+ 285.7143 142.85709 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 18 72 18
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 -0.0001 l 1
+ 285.7143 -0.0001 l 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 19 73 19
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 857.14285 l 1
+ 285.7143 857.14285 l 1
+ 285.7143 142.85709 l 1
+ 428.57146 142.85709 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 142.85709 l 1
+ 142.85715 142.85709 l 1
+ 142.85715 857.14285 l 1
+ 0 857.14285 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 20 74 20
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.7143 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 21 75 21
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 285.71424 l 1
+ 428.57146 285.71424 l 1
+ 428.57146 -0.0001 l 1
+ 285.7143 -0.0001 l 1
+ 285.7143 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 22 76 22
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 142.85709 l 1
+ 428.57146 142.85709 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 23 77 23
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 857.14285 l 1
+ 285.7143 857.14285 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 24 78 24
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 -0.0001 l 1
+ 285.7143 -0.0001 l 1
+ 285.7143 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 25 79 25
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 142.85742 l 1
+ 285.71484 142.85742 l 1
+ 285.71484 0 l 1
+ 142.85742 0 l 1
+ 142.85742 142.85742 l 1
+ 0 142.85742 l 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+142.85742 142.85742 m 1
+ 285.71484 142.85742 l 1
+ 285.71484 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 142.85742 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 26 80 26
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 571.42773 l 1
+ 285.71484 571.42773 l 1
+ 285.71484 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85742 0 l 1
+ 0 0 l 1
+ 0 1000 l 1
+ 285.71484 1000 l 1
+142.85715 857.14285 m 1
+ 142.85715 571.42856 l 1
+ 285.71484 571.42773 l 1
+ 285.71429 857.14285 l 1
+ 142.85715 857.14285 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 27 81 27
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 1000 l 1
+ 285.71484 1000 l 1
+428.57227 857.14258 m 1
+ 428.57227 285.71484 l 1
+ 285.71484 285.71484 l 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+285.71484 142.85742 m 1
+ 142.85742 142.85742 l 1
+ 142.85742 285.71484 l 1
+ 285.71484 285.71484 l 1
+ 285.71484 142.85742 l 1
+0 285.71484 m 1
+ 0 857.14258 l 1
+ 142.85742 857.14258 l 1
+ 142.85742 285.71484 l 1
+ 0 285.71484 l 1
+428.57144 142.85712 m 1
+ 428.57144 0 l 1
+ 285.71429 0 l 1
+ 285.71484 142.85742 l 1
+ 428.57144 142.85712 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 28 82 28
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+285.71484 1000 m 1
+ 285.71484 857.14258 l 1
+ 428.57227 857.14258 l 1
+ 428.57227 571.42773 l 1
+ 285.71484 571.42773 l 1
+ 285.71484 428.57227 l 1
+ 142.85742 428.57227 l 1
+ 142.85742 0 l 1
+ 0 0 l 1
+ 0 1000 l 1
+ 285.71484 1000 l 1
+428.57227 428.57227 m 1
+ 428.57227 0 l 1
+ 285.71484 0 l 1
+ 285.71484 428.57227 l 1
+ 428.57227 428.57227 l 1
+142.85715 857.14285 m 1
+ 142.85715 571.42856 l 1
+ 285.71429 571.42856 l 1
+ 285.71484 857.14258 l 1
+ 142.85715 857.14285 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 29 83 29
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+142.85715 1000 m 1
+ 285.7143 1000 l 1
+ 285.7143 857.14285 l 1
+ 428.57146 857.14285 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 571.42854 l 1
+ 285.7143 571.42854 l 1
+ 285.7143 428.57139 l 1
+ 428.57146 428.57139 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 428.57139 l 1
+ 142.85715 428.57139 l 1
+ 142.85715 571.42854 l 1
+ 0 571.42854 l 1
+ 0 857.14285 l 1
+ 142.85715 857.14285 l 1
+ 142.85715 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 30 84 30
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 857.14285 l 1
+ 285.7143 857.14285 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 857.14285 l 1
+ 0 857.14285 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 31 85 31
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 142.85709 l 1
+ 285.7143 142.85709 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 142.85709 l 1
+ 0 142.85709 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 32 86 32
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 428.57139 l 1
+ 285.7143 428.57139 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 428.57139 l 1
+ 285.7143 428.57139 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 428.57139 l 1
+ 0 428.57139 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 33 87 33
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 -0.0001 l 1
+ 285.7143 -0.0001 l 1
+ 285.7143 142.85709 l 1
+ 142.85715 142.85709 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 34 88 34
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 285.71424 l 1
+ 428.57146 285.71424 l 1
+ 428.57146 -0.0001 l 1
+ 285.7143 -0.0001 l 1
+ 285.7143 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 714.2857 l 1
+ 0 714.2857 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 35 89 35
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 142.85715 1000 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 1000 l 1
+ 428.57146 1000 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 -0.0001 l 1
+ 142.85715 -0.0001 l 1
+ 142.85715 714.2857 l 1
+ 0 714.2857 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+
+StartChar: 
+Encoding: 36 90 36
+Width: 571
+VWidth: 1024
+LayerCount: 2
+Fore
+SplineSet
+0 1000 m 1
+ 428.57146 1000 l 1
+ 428.57146 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 142.85709 l 1
+ 428.57146 142.85709 l 1
+ 428.57146 -0.0001 l 1
+ 0 -0.0001 l 1
+ 0 285.71424 l 1
+ 142.85715 285.71424 l 1
+ 142.85715 714.2857 l 1
+ 285.7143 714.2857 l 1
+ 285.7143 857.14285 l 1
+ 0 857.14285 l 1
+ 0 1000 l 1
+EndSplineSet
+Validated: 2621445
+EndChar
+EndChars
+EndSplineFont
