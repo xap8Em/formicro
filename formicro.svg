@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="1000"
+   width="1000"
+   sodipodi:docname="formicro.svg"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   viewBox="0 0 1000 1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title80">Formicro</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer10"
+     showgrid="true"
+     showguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="142.85714"
+       spacingy="142.85714"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+    <sodipodi:guide
+       position="0,1000"
+       orientation="0,1000"
+       id="ink-font-guide-ascender"
+       inkscape:label="アセンダー"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,1000"
+       orientation="0,1000"
+       id="ink-font-guide-caps"
+       inkscape:label="大文字"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,571"
+       orientation="0,1000"
+       id="ink-font-guide-x-height"
+       inkscape:label="小文字の高さ"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1000"
+       id="ink-font-guide-baseline"
+       inkscape:label="ベースライン"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1000"
+       id="ink-font-guide-descender"
+       inkscape:label="ディセンダー"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <font
+       horiz-adv-x="500"
+       id="font1"
+       inkscape:label="Formicro"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1000"
+         ascent="1000"
+         cap-height="1000"
+         x-height="571"
+         descent="0"
+         id="font-face1"
+         font-family="Formicro" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph1" />
+      <glyph
+         glyph-name=""
+         unicode="0"
+         id="glyph1"
+         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 V 896 H 128 V 640 H 256 V 896 H 128 Z" />
+      <glyph
+         glyph-name=""
+         unicode="1"
+         id="glyph2"
+         d="M 128,1024 H 256 V 128 H 128 V 768 H 0 v 128 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="2"
+         id="glyph3"
+         d="M 128,1024 H 256 V 896 H 384 V 512 H 256 V 384 H 128 V 256 H 384 V 128 H 0 V 384 H 128 V 512 H 256 V 896 H 128 V 640 H 0 v 256 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="3"
+         id="glyph4"
+         d="M 128,1024 H 256 V 896 H 384 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 512 H 128 V 640 H 256 V 896 H 128 V 768 H 0 v 128 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="4"
+         id="glyph6"
+         d="M 256,1024 H 384 V 128 H 256 V 256 H 0 V 512 H 128 V 384 H 256 V 512 H 128 v 256 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="5"
+         id="glyph8"
+         horiz-adv-x="0.00"
+         d="M 0,1024 H 384 V 896 H 128 V 768 H 256 V 640 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 640 H 128 V 512 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="6"
+         id="glyph10"
+         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 768 H 256 V 640 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 640 H 128 V 256 H 0 v 640 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="7"
+         id="glyph12"
+         d="M 0,1024 H 384 V 640 H 256 V 128 H 128 V 640 H 256 V 896 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="8"
+         id="glyph14"
+         d="M 128,1024 H 256 V 896 H 384 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 V 512 H 128 V 640 H 0 V 896 H 128 V 640 H 256 V 896 H 128 Z" />
+      <glyph
+         glyph-name=""
+         unicode="9"
+         id="glyph16"
+         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 384 H 128 V 512 H 256 V 896 H 128 V 512 H 0 v 384 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="A"
+         id="glyph23"
+         d="M 128,1024 H 256 V 640 H 384 V 128 H 256 V 384 H 128 V 128 H 0 V 640 H 128 V 512 H 256 V 640 H 128 Z" />
+      <glyph
+         glyph-name=""
+         unicode="B"
+         id="glyph24"
+         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 256 H 256 V 512 H 128 V 256 H 256 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="C"
+         id="glyph26"
+         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 256 H 256 V 384 H 384 V 256 H 256 V 128 H 128 V 256 H 0 v 640 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="D"
+         id="glyph28"
+         d="M 0,1024 H 256 V 896 H 384 V 256 H 256 V 896 H 128 V 256 H 256 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="E"
+         id="glyph30"
+         d="M 0,1024 H 384 V 896 H 128 V 640 H 256 V 512 H 128 V 256 H 384 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="F"
+         id="glyph32"
+         d="M 0,1024 H 384 V 896 H 128 V 640 H 256 V 512 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="G"
+         id="glyph34"
+         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 640 H 384 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 v 640 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="H"
+         id="glyph36"
+         d="M 0,1024 H 128 V 640 h 128 v 384 H 384 V 128 H 256 V 512 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="I"
+         id="glyph38"
+         d="M 0,1024 H 384 V 896 H 256 V 256 H 384 V 128 H 0 V 256 H 128 V 896 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="J"
+         id="glyph40"
+         d="M 256,1024 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 512 H 128 V 256 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="K"
+         id="glyph42"
+         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 384 H 384 V 128 H 256 V 384 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="L"
+         id="glyph44"
+         d="M 0,1024 H 128 V 256 H 384 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="M"
+         id="glyph46"
+         d="M 0,1024 H 128 V 896 h 128 v 128 H 384 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="N"
+         id="glyph48"
+         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 128 H 256 V 384 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="O"
+         id="glyph50"
+         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 896 H 128 V 256 H 256 V 896 H 128 Z" />
+      <glyph
+         glyph-name=""
+         unicode="P"
+         id="glyph52"
+         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="Q"
+         id="glyph54"
+         d="M 128,1024 H 256 V 896 H 384 V 384 H 256 V 256 H 384 V 128 H 256 V 256 H 128 V 384 H 0 V 896 H 128 V 384 H 256 V 896 H 128 Z" />
+      <glyph
+         glyph-name=""
+         unicode="R"
+         id="glyph56"
+         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 128 H 256 V 512 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="S"
+         id="glyph58"
+         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 512 H 128 V 640 H 0 v 256 h 128 z" />
+      <glyph
+         glyph-name=""
+         unicode="T"
+         id="glyph60"
+         d="M 0,1024 H 384 V 896 H 256 V 128 H 128 V 896 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="U"
+         id="glyph62"
+         d="M 0,1024 H 128 V 256 h 128 v 768 H 384 V 256 H 256 V 128 H 128 V 256 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="V"
+         id="glyph64"
+         d="M 0,1024 H 128 V 512 h 128 v 512 H 384 V 512 H 256 V 128 H 128 V 512 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="W"
+         id="glyph66"
+         d="M 0,1024 H 384 V 128 H 256 V 256 H 128 V 128 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="X"
+         id="glyph68"
+         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 384 H 384 V 128 H 256 V 384 H 128 V 128 H 0 V 384 H 128 V 768 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="Y"
+         id="glyph70"
+         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 128 H 128 V 768 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode="Z"
+         id="glyph72"
+         d="M 0,1024 H 384 V 768 H 256 V 384 H 128 V 256 H 384 V 128 H 0 V 384 H 128 V 768 H 256 V 896 H 0 Z" />
+      <glyph
+         glyph-name=""
+         unicode=" "
+         id="glyph9" />
+    </font>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Formicro</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>u8p</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Formicro"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer39"
+       inkscape:label="U+00005A Z"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 285.7143 H 285.7143 V 714.28576 H 142.85715 V 857.14291 H 428.57146 V 1000.0001 H 0 V 714.28576 H 142.85715 V 285.7143 H 285.7143 V 142.85715 H 0 Z"
+         id="path74"
+         inkscape:label="Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer38"
+       inkscape:label="U+000059 Y"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 285.7143 H 285.7143 V 0 H 428.57146 V 285.7143 H 285.7143 v 714.2858 H 142.85715 V 285.7143 H 0 Z"
+         id="path72"
+         inkscape:label="Y" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer37"
+       inkscape:label="U+000058 X"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 285.7143 H 285.7143 V 0 H 428.57146 V 285.7143 H 285.7143 V 714.28576 H 428.57146 V 1000.0001 H 285.7143 V 714.28576 H 142.85715 V 1000.0001 H 0 V 714.28576 H 142.85715 V 285.7143 H 0 Z"
+         id="path70"
+         inkscape:label="X" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer36"
+       inkscape:label="U+000057 W"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 1000.0001 H 285.7143 V 857.14291 H 142.85715 V 1000.0001 H 0 Z"
+         id="path68"
+         inkscape:label="W" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer35"
+       inkscape:label="U+000056 V"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 571.42861 H 285.7143 V 0 H 428.57146 V 571.42861 H 285.7143 V 1000.0001 H 142.85715 V 571.42861 H 0 Z"
+         id="path66"
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:label="V" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer34"
+       inkscape:label="U+000055 U"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 857.14291 H 285.7143 V 0 H 428.57146 V 857.14291 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 Z"
+         id="path64"
+         inkscape:label="U" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer33"
+       inkscape:label="U+000054 T"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 142.85715 H 285.7143 V 1000.0001 H 142.85715 V 142.85715 H 0 Z"
+         id="path62"
+         inkscape:label="T" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer32"
+       inkscape:label="U+000053 S"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 142.85715,0 H 285.7143 V 142.85715 H 428.57146 V 285.7143 H 285.7143 V 142.85715 H 142.85715 V 428.57146 H 285.7143 v 142.85715 h 142.85716 v 285.7143 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 V 714.28576 H 142.85715 V 857.14291 H 285.7143 V 571.42861 H 142.85715 V 428.57146 H 0 V 142.85715 h 142.85715 z"
+         id="path60"
+         inkscape:label="S" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer31"
+       inkscape:label="U+000052 R"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path58"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="R"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 428.57227 H 285.71484 V 571.42773 H 142.85742 V 1000 H 0 V 0 Z M 428.57227,571.42773 V 1000 H 285.71484 V 571.42773 Z M 142.85715,142.85715 v 285.71429 h 142.85714 l 5.5e-4,-285.71402 z"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer30"
+       inkscape:label="U+000051 Q"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path56"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="Q"
+         d="M 285.71484,0 V 142.85742 H 142.85742 V 0 Z M 428.57227,142.85742 V 714.28516 H 285.71484 V 142.85742 Z M 285.71484,857.14258 H 142.85742 V 714.28516 H 285.71484 Z M 0,714.28516 V 142.85742 H 142.85742 V 714.28516 Z M 428.57144,857.14288 V 1000 H 285.71429 l 5.5e-4,-142.85742 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer29"
+       inkscape:label="U+000050 P"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path54"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="P"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 428.57227 H 285.71484 V 571.42773 H 142.85742 V 1000 H 0 V 0 Z M 142.85715,142.85715 v 285.71429 l 142.85769,8.3e-4 -5.5e-4,-285.71512 z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="U+00004F O"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path52"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="O"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 857.14258 H 285.71484 V 1000 H 142.85742 V 857.14258 H 0 V 142.85742 H 142.85742 V 0 Z M 142.85742,857.14258 H 285.71484 V 142.85742 H 142.85742 Z"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer27"
+       inkscape:label="U+00004E N"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 285.7143 H 285.7143 V 0 H 428.57146 V 1000.0001 H 285.7143 V 714.28576 H 142.85715 V 1000.0001 H 0 Z"
+         id="path50"
+         inkscape:label="N" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer26"
+       inkscape:label="U+00004D M"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 142.85715 H 285.7143 V 0 H 428.57146 V 1000.0001 H 0 Z"
+         id="path48"
+         inkscape:label="M" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer25"
+       inkscape:label="U+00004C L"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 857.14291 H 428.57146 V 1000.0001 H 0 Z"
+         id="path46"
+         inkscape:label="L" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer24"
+       inkscape:label="U+00004B K"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 285.7143 H 285.7143 V 0 H 428.57146 V 285.7143 H 285.7143 V 714.28576 H 428.57146 V 1000.0001 H 285.7143 V 714.28576 H 142.85715 V 1000.0001 H 0 Z"
+         id="path44"
+         inkscape:label="K" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer23"
+       inkscape:label="U+00004A J"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 285.7143,0 H 428.57146 V 857.14291 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 v -285.7143 h 142.85715 v 285.7143 H 285.7143 Z"
+         id="path42"
+         inkscape:label="J" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer22"
+       inkscape:label="U+000049 I"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 142.85715 H 285.7143 V 857.14291 H 428.57146 V 1000.0001 H 0 V 857.14291 H 142.85715 V 142.85715 H 0 Z"
+         id="path40"
+         inkscape:label="I" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer21"
+       inkscape:label="U+000048 H"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 142.85715 V 428.57146 H 285.7143 V 0 H 428.57146 V 1000.0001 H 285.7143 V 571.42861 H 142.85715 V 1000.0001 H 0 Z"
+         id="path38"
+         inkscape:label="H" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer20"
+       inkscape:label="U+000047 G"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 285.7143,857.14291 v -285.7143 l -142.85715,-2e-5 V 428.57144 l 285.71431,2e-5 V 1000.0001 H 142.85715 V 857.14288 L 0,857.14291 V 142.85715 H 142.85715 V 0 H 285.7143 V 142.85715 H 428.57146 V 285.7143 H 285.7143 V 142.85715 H 142.85715 v 714.28573 z"
+         id="path36"
+         inkscape:label="G"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer19"
+       inkscape:label="U+000046 F"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 142.85715 H 142.85715 V 428.57146 H 285.7143 V 571.42861 H 142.85715 V 1000.0001 H 0 Z"
+         id="path34"
+         inkscape:label="F" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="U+000045 E"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 142.85715 H 142.85715 V 428.57146 H 285.7143 V 571.42861 H 142.85715 v 285.7143 H 428.57146 V 1000.0001 H 0 Z"
+         id="path32"
+         inkscape:label="E" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer17"
+       inkscape:label="U+000044 D"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path30"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="D"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 857.14258 H 285.71484 V 1000 H 0 V 0 Z M 142.85715,857.14288 H 285.71429 V 142.85715 H 142.85715 Z"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="U+000043 C"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 142.85715,0 H 285.7143 V 142.85715 H 428.57146 V 285.7143 H 285.7143 V 142.85715 H 142.85715 V 857.14291 H 285.7143 V 714.28576 H 428.57146 V 857.14291 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 V 142.85715 h 142.85715 z"
+         id="path28"
+         inkscape:label="C" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="U+000042 B"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path26"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="B"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 428.57227 H 285.71484 V 571.42773 H 428.57227 V 857.14258 H 285.71484 V 1000 H 0 V 0 Z M 142.85715,142.85715 V 428.57144 H 285.71429 V 142.85715 Z m 0,714.28573 H 285.71429 V 571.42859 H 142.85715 Z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer14"
+       inkscape:label="U+000041 A"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path24"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="A"
+         d="M 285.71484,0 V 428.57227 H 428.57227 V 1000 H 285.71484 V 714.28516 H 142.85742 V 1000 H 0 V 428.57227 H 142.85742 V 0 Z M 142.85715,571.42859 h 142.85714 l 5.5e-4,-142.85632 H 142.85742 Z"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="U+000039 9"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path18"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="9"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 857.14258 H 285.71484 V 714.28516 H 142.85742 V 571.42773 H 0 V 142.85742 H 142.85742 V 0 Z m 0,1000 H 142.85742 V 857.14258 H 285.71484 Z M 0,857.14258 V 714.28516 H 142.85742 V 857.14258 Z M 142.85715,571.42859 h 142.85714 l 5.5e-4,-428.57117 -142.85769,-2.7e-4 z"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="U+000038 8"
+       style="display:inline">
+      <path
+         id="path16"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="8"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 428.57227 H 285.71484 V 571.42773 H 428.57227 V 857.14258 H 285.71484 V 1000 H 142.85742 V 857.14258 H 0 V 571.42773 H 142.85742 V 428.57227 H 0 V 142.85742 H 142.85742 V 0 Z m -142.85769,428.57144 142.85769,8.3e-4 V 142.85742 l -142.85769,-2.7e-4 z m 0,428.57144 h 142.85714 l 5.5e-4,-285.71515 H 142.85742 Z"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="U+000037 7"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 428.57146 H 285.7143 V 1000.0001 H 142.85715 V 428.57146 H 285.7143 V 142.85715 H 0 Z"
+         id="path14"
+         inkscape:label="7" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="U+000036 6"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path12"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="6"
+         d="M 285.71484,0 V 142.85742 H 142.85742 V 0 Z M 428.57227,142.85742 V 285.71484 H 285.71484 V 142.85742 Z M 285.71484,428.57227 H 428.57227 V 857.14258 H 285.71484 V 1000 H 142.85742 V 857.14258 H 0 V 142.85742 H 142.85742 V 285.71484 H 285.71484 Z M 142.85742,857.14258 H 285.71484 V 428.57227 H 142.85742 Z"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="U+000035 5"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 0,0 H 428.57146 V 142.85715 H 142.85715 V 285.7143 H 285.7143 V 428.57146 H 428.57146 V 857.14291 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 V 714.28576 H 142.85715 V 857.14291 H 285.7143 V 428.57146 H 142.85715 V 571.42861 H 0 Z"
+         id="path10"
+         inkscape:label="5" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="U+000034 4"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path8"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="4"
+         d="M 428.57227,0 V 1000 H 285.71484 V 857.14258 H 0 V 571.42773 H 142.85742 V 285.71484 H 285.71484 V 0 Z M 142.85742,571.42773 V 714.28516 H 285.71484 V 571.42773 Z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="U+000033 3"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 142.85715,0 H 285.7143 V 142.85715 H 428.57146 V 428.57146 H 285.7143 v 142.85715 h 142.85716 v 285.7143 H 285.7143 V 1000.0001 H 142.85715 V 857.14291 H 0 V 714.28576 H 142.85715 V 857.14291 H 285.7143 V 571.42861 H 142.85715 V 428.57146 H 285.7143 V 142.85715 H 142.85715 V 285.7143 H 0 V 142.85715 h 142.85715 z"
+         id="path6"
+         inkscape:label="3" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="U+000032 2"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 142.85715,0 H 285.7143 V 142.85715 H 428.57146 V 571.42861 H 285.7143 V 714.28576 H 142.85715 V 857.14291 H 428.57146 V 1000.0001 H 0 V 714.28576 H 142.85715 V 571.42861 H 285.7143 V 142.85715 H 142.85715 V 428.57146 H 0 V 142.85715 h 142.85715 z"
+         id="path4"
+         inkscape:label="2" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="U+000031 1"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="M 142.85715,0 H 285.7143 V 1000.0001 H 142.85715 V 285.7143 H 0 V 142.85715 h 142.85715 z"
+         id="path3"
+         inkscape:label="1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="U+000030 0"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path2"
+         style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         inkscape:label="0"
+         d="M 285.71484,0 V 142.85742 H 428.57227 V 857.14258 H 285.71484 V 1000 H 142.85742 V 857.14258 H 0 V 142.85742 H 142.85742 V 0 Z M 142.85742,428.57227 H 285.71484 V 142.85742 l -142.85769,-2.7e-4 z m -2.7e-4,428.57061 142.85769,-3e-4 V 571.42773 H 142.85742 Z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="U+000020  "
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         d=""
+         id="path9" />
+    </g>
+  </g>
+</svg>
