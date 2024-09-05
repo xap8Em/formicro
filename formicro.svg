@@ -29,7 +29,7 @@
      inkscape:cx="500"
      inkscape:cy="500"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer3"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -61,33 +61,33 @@
     <sodipodi:guide
        position="0,1000"
        orientation="0,1000"
+       inkscape:locked="true"
        id="ink-font-guide-ascender"
-       inkscape:label="アセンダー"
-       inkscape:locked="true" />
+       inkscape:label="アセンダー" />
     <sodipodi:guide
        position="0,1000"
        orientation="0,1000"
+       inkscape:locked="true"
        id="ink-font-guide-caps"
-       inkscape:label="大文字"
-       inkscape:locked="true" />
+       inkscape:label="大文字" />
     <sodipodi:guide
        position="0,571"
        orientation="0,1000"
+       inkscape:locked="true"
        id="ink-font-guide-x-height"
-       inkscape:label="小文字の高さ"
-       inkscape:locked="true" />
+       inkscape:label="小文字の高さ" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1000"
+       inkscape:locked="true"
        id="ink-font-guide-baseline"
-       inkscape:label="ベースライン"
-       inkscape:locked="true" />
+       inkscape:label="ベースライン" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1000"
+       inkscape:locked="true"
        id="ink-font-guide-descender"
-       inkscape:label="ディセンダー"
-       inkscape:locked="true" />
+       inkscape:label="ディセンダー" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -115,183 +115,183 @@
          glyph-name=""
          unicode="0"
          id="glyph1"
-         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 V 896 H 128 V 640 H 256 V 896 H 128 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 1000 Z M 142.85742,571.42773 h 142.85742 v 285.71485 l -142.85769,2.7e-4 z m -2.7e-4,-428.57061 142.85769,3e-4 V 428.57227 H 142.85742 Z" />
       <glyph
          glyph-name=""
          unicode="1"
          id="glyph2"
-         d="M 128,1024 H 256 V 128 H 128 V 768 H 0 v 128 h 128 z" />
+         d="M 142.85715,1000 H 285.7143 V -10e-5 H 142.85715 V 714.2857 H 0 v 142.85715 h 142.85715 z" />
       <glyph
          glyph-name=""
          unicode="2"
          id="glyph3"
-         d="M 128,1024 H 256 V 896 H 384 V 512 H 256 V 384 H 128 V 256 H 384 V 128 H 0 V 384 H 128 V 512 H 256 V 896 H 128 V 640 H 0 v 256 h 128 z" />
+         d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 428.57139 H 285.7143 V 285.71424 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 V 285.71424 H 142.85715 V 428.57139 H 285.7143 V 857.14285 H 142.85715 V 571.42854 H 0 v 285.71431 h 142.85715 z" />
       <glyph
          glyph-name=""
          unicode="3"
          id="glyph4"
-         d="M 128,1024 H 256 V 896 H 384 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 512 H 128 V 640 H 256 V 896 H 128 V 768 H 0 v 128 h 128 z" />
+         d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 571.42854 H 285.7143 V 428.57139 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 v 285.7143 H 142.85715 V 571.42854 H 285.7143 V 857.14285 H 142.85715 V 714.2857 H 0 v 142.85715 h 142.85715 z" />
       <glyph
          glyph-name=""
          unicode="4"
          id="glyph6"
-         d="M 256,1024 H 384 V 128 H 256 V 256 H 0 V 512 H 128 V 384 H 256 V 512 H 128 v 256 h 128 z" />
+         d="M 428.57227,1000 V 0 H 285.71484 V 142.85742 H 0 V 428.57227 H 142.85742 V 714.28516 H 285.71484 V 1000 Z M 142.85742,428.57227 V 285.71484 h 142.85742 v 142.85743 z" />
       <glyph
          glyph-name=""
          unicode="5"
          id="glyph8"
          horiz-adv-x="0.00"
-         d="M 0,1024 H 384 V 896 H 128 V 768 H 256 V 640 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 640 H 128 V 512 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 714.2857 H 285.7143 V 571.42854 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 V 571.42854 H 142.85715 V 428.57139 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="6"
          id="glyph10"
-         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 768 H 256 V 640 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 640 H 128 V 256 H 0 v 640 h 128 z" />
+         d="M 285.71484,1000 V 857.14258 H 142.85742 V 1000 Z M 428.57227,857.14258 V 714.28516 H 285.71484 V 857.14258 Z M 285.71484,571.42773 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 714.28516 H 285.71484 Z M 142.85742,142.85742 H 285.71484 V 571.42773 H 142.85742 Z" />
       <glyph
          glyph-name=""
          unicode="7"
          id="glyph12"
-         d="M 0,1024 H 384 V 640 H 256 V 128 H 128 V 640 H 256 V 896 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 571.42854 H 285.7143 V -10e-5 H 142.85715 V 571.42854 H 285.7143 V 857.14285 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="8"
          id="glyph14"
-         d="M 128,1024 H 256 V 896 H 384 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 V 512 H 128 V 640 H 0 V 896 H 128 V 640 H 256 V 896 H 128 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 428.57227 H 142.85742 V 571.42773 H 0 V 857.14258 H 142.85742 V 1000 Z m -142.85769,-428.57144 142.85769,-8.3e-4 v 285.71485 l -142.85769,2.7e-4 z m 0,-428.57144 h 142.85714 l 5.5e-4,285.71515 H 142.85742 Z" />
       <glyph
          glyph-name=""
          unicode="9"
          id="glyph16"
-         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 384 H 128 V 512 H 256 V 896 H 128 V 512 H 0 v 384 h 128 z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 285.71484 H 142.85742 V 428.57227 H 0 V 857.14258 H 142.85742 V 1000 Z m 0,-1000 H 142.85742 V 142.85742 H 285.71484 Z M 0,142.85742 V 285.71484 H 142.85742 V 142.85742 Z m 142.85715,285.71399 h 142.85714 l 5.5e-4,428.57117 -142.85769,2.7e-4 z" />
       <glyph
          glyph-name=""
          unicode="A"
          id="glyph23"
-         d="M 128,1024 H 256 V 640 H 384 V 128 H 256 V 384 H 128 V 128 H 0 V 640 H 128 V 512 H 256 V 640 H 128 Z" />
+         d="M 285.71484,1000 V 571.42773 H 428.57227 V 0 H 285.71484 V 285.71484 H 142.85742 V 0 H 0 V 571.42773 H 142.85742 V 1000 Z M 142.85715,428.57141 h 142.85714 l 5.5e-4,142.85632 H 142.85742 Z" />
       <glyph
          glyph-name=""
          unicode="B"
          id="glyph24"
-         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 256 H 256 V 512 H 128 V 256 H 256 V 128 H 0 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 428.57227 V 142.85742 H 285.71484 V 0 H 0 V 1000 Z M 142.85715,857.14285 V 571.42856 h 142.85714 v 285.71429 z m 0,-714.28573 H 285.71429 V 428.57141 H 142.85715 Z" />
       <glyph
          glyph-name=""
          unicode="C"
          id="glyph26"
-         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 256 H 256 V 384 H 384 V 256 H 256 V 128 H 128 V 256 H 0 v 640 h 128 z" />
+         d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 142.85709 H 285.7143 V 285.71424 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 v 714.28576 h 142.85715 z" />
       <glyph
          glyph-name=""
          unicode="D"
          id="glyph28"
-         d="M 0,1024 H 256 V 896 H 384 V 256 H 256 V 896 H 128 V 256 H 256 V 128 H 0 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 0 V 1000 Z M 142.85715,142.85712 H 285.71429 V 857.14285 H 142.85715 Z" />
       <glyph
          glyph-name=""
          unicode="E"
          id="glyph30"
-         d="M 0,1024 H 384 V 896 H 128 V 640 H 256 V 512 H 128 V 256 H 384 V 128 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="F"
          id="glyph32"
-         d="M 0,1024 H 384 V 896 H 128 V 640 H 256 V 512 H 128 V 128 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="G"
          id="glyph34"
-         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 640 H 384 V 128 H 128 V 256 H 256 V 512 H 128 V 256 H 0 v 640 h 128 z" />
+         d="m 285.7143,142.85709 v 285.7143 l -142.85715,2e-5 v 142.85715 l 285.71431,-2e-5 V -10e-5 H 142.85715 V 142.85712 L 0,142.85709 V 857.14285 H 142.85715 V 1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 142.85712 Z" />
       <glyph
          glyph-name=""
          unicode="H"
          id="glyph36"
-         d="M 0,1024 H 128 V 640 h 128 v 384 H 384 V 128 H 256 V 512 H 128 V 128 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 571.42854 H 285.7143 V 1000 H 428.57146 V -10e-5 H 285.7143 V 428.57139 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="I"
          id="glyph38"
-         d="M 0,1024 H 384 V 896 H 256 V 256 H 384 V 128 H 0 V 256 H 128 V 896 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 857.14285 H 285.7143 V 142.85709 H 428.57146 V -10e-5 H 0 V 142.85709 H 142.85715 V 857.14285 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="J"
          id="glyph40"
-         d="M 256,1024 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 512 H 128 V 256 h 128 z" />
+         d="M 285.7143,1000 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 v 285.7143 H 142.85715 V 142.85709 H 285.7143 Z" />
       <glyph
          glyph-name=""
          unicode="K"
          id="glyph42"
-         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 384 H 384 V 128 H 256 V 384 H 128 V 128 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="L"
          id="glyph44"
-         d="M 0,1024 H 128 V 256 H 384 V 128 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="M"
          id="glyph46"
-         d="M 0,1024 H 128 V 896 h 128 v 128 H 384 V 128 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 857.14285 H 285.7143 V 1000 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="N"
          id="glyph48"
-         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 128 H 256 V 384 H 128 V 128 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="O"
          id="glyph50"
-         d="M 128,1024 H 256 V 896 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 896 H 128 V 256 H 256 V 896 H 128 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 1000 Z M 142.85742,142.85742 H 285.71484 V 857.14258 H 142.85742 Z" />
       <glyph
          glyph-name=""
          unicode="P"
          id="glyph52"
-         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 128 V 128 H 0 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 142.85742 V 0 H 0 V 1000 Z M 142.85715,857.14285 V 571.42856 l 142.85769,-8.3e-4 -5.5e-4,285.71512 z" />
       <glyph
          glyph-name=""
          unicode="Q"
          id="glyph54"
-         d="M 128,1024 H 256 V 896 H 384 V 384 H 256 V 256 H 384 V 128 H 256 V 256 H 128 V 384 H 0 V 896 H 128 V 384 H 256 V 896 H 128 Z" />
+         d="M 285.71484,1000 V 857.14258 H 142.85742 V 1000 Z M 428.57227,857.14258 V 285.71484 H 285.71484 V 857.14258 Z M 285.71484,142.85742 H 142.85742 V 285.71484 H 285.71484 Z M 0,285.71484 V 857.14258 H 142.85742 V 285.71484 Z M 428.57144,142.85712 V 0 H 285.71429 l 5.5e-4,142.85742 z" />
       <glyph
          glyph-name=""
          unicode="R"
          id="glyph56"
-         d="M 0,1024 H 256 V 896 H 384 V 640 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 128 H 256 V 512 H 128 V 128 H 0 Z" />
+         d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 142.85742 V 0 H 0 V 1000 Z M 428.57227,428.57227 V 0 H 285.71484 V 428.57227 Z M 142.85715,857.14285 V 571.42856 h 142.85714 l 5.5e-4,285.71402 z" />
       <glyph
          glyph-name=""
          unicode="S"
          id="glyph58"
-         d="M 128,1024 H 256 V 896 H 384 V 768 H 256 V 896 H 128 V 640 H 256 V 512 H 384 V 256 H 256 V 128 H 128 V 256 H 0 V 384 H 128 V 256 H 256 V 512 H 128 V 640 H 0 v 256 h 128 z" />
+         d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 v 285.7143 H 142.85715 V 571.42854 H 0 v 285.71431 h 142.85715 z" />
       <glyph
          glyph-name=""
          unicode="T"
          id="glyph60"
-         d="M 0,1024 H 384 V 896 H 256 V 128 H 128 V 896 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 857.14285 H 285.7143 V -10e-5 H 142.85715 V 857.14285 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="U"
          id="glyph62"
-         d="M 0,1024 H 128 V 256 h 128 v 768 H 384 V 256 H 256 V 128 H 128 V 256 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 142.85709 H 285.7143 V 1000 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="V"
          id="glyph64"
-         d="M 0,1024 H 128 V 512 h 128 v 512 H 384 V 512 H 256 V 128 H 128 V 512 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 428.57139 H 285.7143 V 1000 H 428.57146 V 428.57139 H 285.7143 V -10e-5 H 142.85715 V 428.57139 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="W"
          id="glyph66"
-         d="M 0,1024 H 384 V 128 H 256 V 256 H 128 V 128 H 0 Z" />
+         d="M 0,1000 H 428.57146 V -10e-5 H 285.7143 V 142.85709 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="X"
          id="glyph68"
-         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 384 H 384 V 128 H 256 V 384 H 128 V 128 H 0 V 384 H 128 V 768 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 V 285.71424 H 142.85715 V 714.2857 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="Y"
          id="glyph70"
-         d="M 0,1024 H 128 V 768 h 128 v 256 H 384 V 768 H 256 V 128 H 128 V 768 H 0 Z" />
+         d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V -10e-5 H 142.85715 V 714.2857 H 0 Z" />
       <glyph
          glyph-name=""
          unicode="Z"
          id="glyph72"
-         d="M 0,1024 H 384 V 768 H 256 V 384 H 128 V 256 H 384 V 128 H 0 V 384 H 128 V 768 H 256 V 896 H 0 Z" />
+         d="M 0,1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 V 285.71424 H 142.85715 V 714.2857 H 285.7143 V 857.14285 H 0 Z" />
       <glyph
          glyph-name=""
          unicode=" "
@@ -669,7 +669,8 @@
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="U+000038 8"
-       style="display:inline">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path16"
          style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
@@ -767,8 +768,7 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="U+000030 0"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          id="path2"
          style="fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
