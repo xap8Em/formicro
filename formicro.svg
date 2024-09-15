@@ -32,11 +32,11 @@
      inkscape:current-layer="layer3"
      showgrid="true"
      showguides="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:window-width="958"
+     inkscape:window-height="492"
+     inkscape:window-x="952"
+     inkscape:window-y="489"
+     inkscape:window-maximized="0"
      showborder="true"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="1"
@@ -112,187 +112,187 @@
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph1" />
       <glyph
-         glyph-name=""
+         glyph-name="zero"
          unicode="0"
          id="glyph1"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 1000 Z M 142.85742,571.42773 h 142.85742 v 285.71485 l -142.85769,2.7e-4 z m -2.7e-4,-428.57061 142.85769,3e-4 V 428.57227 H 142.85742 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="one"
          unicode="1"
          id="glyph2"
          d="M 142.85715,1000 H 285.7143 V -10e-5 H 142.85715 V 714.2857 H 0 v 142.85715 h 142.85715 z" />
       <glyph
-         glyph-name=""
+         glyph-name="two"
          unicode="2"
          id="glyph3"
          d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 428.57139 H 285.7143 V 285.71424 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 V 285.71424 H 142.85715 V 428.57139 H 285.7143 V 857.14285 H 142.85715 V 571.42854 H 0 v 285.71431 h 142.85715 z" />
       <glyph
-         glyph-name=""
+         glyph-name="three"
          unicode="3"
          id="glyph4"
          d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 571.42854 H 285.7143 V 428.57139 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 v 285.7143 H 142.85715 V 571.42854 H 285.7143 V 857.14285 H 142.85715 V 714.2857 H 0 v 142.85715 h 142.85715 z" />
       <glyph
-         glyph-name=""
+         glyph-name="four"
          unicode="4"
          id="glyph6"
          d="M 428.57227,1000 V 0 H 285.71484 V 142.85742 H 0 V 428.57227 H 142.85742 V 714.28516 H 285.71484 V 1000 Z M 142.85742,428.57227 V 285.71484 h 142.85742 v 142.85743 z" />
       <glyph
-         glyph-name=""
+         glyph-name="five"
          unicode="5"
          id="glyph8"
          d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 714.2857 H 285.7143 V 571.42854 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 V 571.42854 H 142.85715 V 428.57139 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="six"
          unicode="6"
          id="glyph10"
          d="M 285.71484,1000 V 857.14258 H 142.85742 V 1000 Z M 428.57227,857.14258 V 714.28516 H 285.71484 V 857.14258 Z M 285.71484,571.42773 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 714.28516 H 285.71484 Z M 142.85742,142.85742 H 285.71484 V 571.42773 H 142.85742 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="seven"
          unicode="7"
          id="glyph12"
          d="M 0,1000 H 428.57146 V 571.42854 H 285.7143 V -10e-5 H 142.85715 V 571.42854 H 285.7143 V 857.14285 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="eight"
          unicode="8"
          id="glyph14"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 428.57227 H 142.85742 V 571.42773 H 0 V 857.14258 H 142.85742 V 1000 Z m -142.85769,-428.57144 142.85769,-8.3e-4 v 285.71485 l -142.85769,2.7e-4 z m 0,-428.57144 h 142.85714 l 5.5e-4,285.71515 H 142.85742 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="nine"
          unicode="9"
          id="glyph16"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 285.71484 H 142.85742 V 428.57227 H 0 V 857.14258 H 142.85742 V 1000 Z m 0,-1000 H 142.85742 V 142.85742 H 285.71484 Z M 0,142.85742 V 285.71484 H 142.85742 V 142.85742 Z m 142.85715,285.71399 h 142.85714 l 5.5e-4,428.57117 -142.85769,2.7e-4 z" />
       <glyph
-         glyph-name=""
+         glyph-name="A"
          unicode="A"
          id="glyph23"
          d="M 285.71484,1000 V 571.42773 H 428.57227 V 0 H 285.71484 V 285.71484 H 142.85742 V 0 H 0 V 571.42773 H 142.85742 V 1000 Z M 142.85715,428.57141 h 142.85714 l 5.5e-4,142.85632 H 142.85742 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="B"
          unicode="B"
          id="glyph24"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 428.57227 V 142.85742 H 285.71484 V 0 H 0 V 1000 Z M 142.85715,857.14285 V 571.42856 h 142.85714 v 285.71429 z m 0,-714.28573 H 285.71429 V 428.57141 H 142.85715 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="C"
          unicode="C"
          id="glyph26"
          d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 142.85709 H 285.7143 V 285.71424 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 v 714.28576 h 142.85715 z" />
       <glyph
-         glyph-name=""
+         glyph-name="D"
          unicode="D"
          id="glyph28"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 0 V 1000 Z M 142.85715,142.85712 H 285.71429 V 857.14285 H 142.85715 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="E"
          unicode="E"
          id="glyph30"
          d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="F"
          unicode="F"
          id="glyph32"
          d="M 0,1000 H 428.57146 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="G"
          unicode="G"
          id="glyph34"
          d="m 285.7143,142.85709 v 285.7143 l -142.85715,2e-5 v 142.85715 l 285.71431,-2e-5 V -10e-5 H 142.85715 V 142.85712 L 0,142.85709 V 857.14285 H 142.85715 V 1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 142.85712 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="H"
          unicode="H"
          id="glyph36"
          d="M 0,1000 H 142.85715 V 571.42854 H 285.7143 V 1000 H 428.57146 V -10e-5 H 285.7143 V 428.57139 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="I"
          unicode="I"
          id="glyph38"
          d="M 0,1000 H 428.57146 V 857.14285 H 285.7143 V 142.85709 H 428.57146 V -10e-5 H 0 V 142.85709 H 142.85715 V 857.14285 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="J"
          unicode="J"
          id="glyph40"
          d="M 285.7143,1000 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 v 285.7143 H 142.85715 V 142.85709 H 285.7143 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="K"
          unicode="K"
          id="glyph42"
          d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="L"
          unicode="L"
          id="glyph44"
          d="M 0,1000 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="M"
          unicode="M"
          id="glyph46"
          d="M 0,1000 H 142.85715 V 857.14285 H 285.7143 V 1000 H 428.57146 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="N"
          unicode="N"
          id="glyph48"
          d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="O"
          unicode="O"
          id="glyph50"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 142.85742 H 285.71484 V 0 H 142.85742 V 142.85742 H 0 V 857.14258 H 142.85742 V 1000 Z M 142.85742,142.85742 H 285.71484 V 857.14258 H 142.85742 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="P"
          unicode="P"
          id="glyph52"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 142.85742 V 0 H 0 V 1000 Z M 142.85715,857.14285 V 571.42856 l 142.85769,-8.3e-4 -5.5e-4,285.71512 z" />
       <glyph
-         glyph-name=""
+         glyph-name="Q"
          unicode="Q"
          id="glyph54"
          d="M 285.71484,1000 V 857.14258 H 142.85742 V 1000 Z M 428.57227,857.14258 V 285.71484 H 285.71484 V 857.14258 Z M 285.71484,142.85742 H 142.85742 V 285.71484 H 285.71484 Z M 0,285.71484 V 857.14258 H 142.85742 V 285.71484 Z M 428.57144,142.85712 V 0 H 285.71429 l 5.5e-4,142.85742 z" />
       <glyph
-         glyph-name=""
+         glyph-name="R"
          unicode="R"
          id="glyph56"
          d="M 285.71484,1000 V 857.14258 H 428.57227 V 571.42773 H 285.71484 V 428.57227 H 142.85742 V 0 H 0 V 1000 Z M 428.57227,428.57227 V 0 H 285.71484 V 428.57227 Z M 142.85715,857.14285 V 571.42856 h 142.85714 l 5.5e-4,285.71402 z" />
       <glyph
-         glyph-name=""
+         glyph-name="S"
          unicode="S"
          id="glyph58"
          d="M 142.85715,1000 H 285.7143 V 857.14285 H 428.57146 V 714.2857 H 285.7143 V 857.14285 H 142.85715 V 571.42854 H 285.7143 V 428.57139 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 V 285.71424 H 142.85715 V 142.85709 H 285.7143 v 285.7143 H 142.85715 V 571.42854 H 0 v 285.71431 h 142.85715 z" />
       <glyph
-         glyph-name=""
+         glyph-name="T"
          unicode="T"
          id="glyph60"
          d="M 0,1000 H 428.57146 V 857.14285 H 285.7143 V -10e-5 H 142.85715 V 857.14285 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="U"
          unicode="U"
          id="glyph62"
          d="M 0,1000 H 142.85715 V 142.85709 H 285.7143 V 1000 H 428.57146 V 142.85709 H 285.7143 V -10e-5 H 142.85715 V 142.85709 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="V"
          unicode="V"
          id="glyph64"
          d="M 0,1000 H 142.85715 V 428.57139 H 285.7143 V 1000 H 428.57146 V 428.57139 H 285.7143 V -10e-5 H 142.85715 V 428.57139 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="W"
          unicode="W"
          id="glyph66"
          d="M 0,1000 H 428.57146 V -10e-5 H 285.7143 V 142.85709 H 142.85715 V -10e-5 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="X"
          unicode="X"
          id="glyph68"
          d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 428.57146 V -10e-5 H 285.7143 V 285.71424 H 142.85715 V -10e-5 H 0 V 285.71424 H 142.85715 V 714.2857 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="Y"
          unicode="Y"
          id="glyph70"
          d="M 0,1000 H 142.85715 V 714.2857 H 285.7143 V 1000 H 428.57146 V 714.2857 H 285.7143 V -10e-5 H 142.85715 V 714.2857 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="Z"
          unicode="Z"
          id="glyph72"
          d="M 0,1000 H 428.57146 V 714.2857 H 285.7143 V 285.71424 H 142.85715 V 142.85709 H 428.57146 V -10e-5 H 0 V 285.71424 H 142.85715 V 714.2857 H 285.7143 V 857.14285 H 0 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="space"
          unicode=" "
          id="glyph9" />
     </font>
@@ -333,7 +333,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer39"
-       inkscape:label="U+00005A Z"
+       inkscape:label="U+00005A Z Z"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -345,7 +345,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer38"
-       inkscape:label="U+000059 Y"
+       inkscape:label="U+000059 Y Y"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -357,7 +357,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer37"
-       inkscape:label="U+000058 X"
+       inkscape:label="U+000058 X X"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -369,7 +369,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer36"
-       inkscape:label="U+000057 W"
+       inkscape:label="U+000057 W W"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -381,7 +381,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer35"
-       inkscape:label="U+000056 V"
+       inkscape:label="U+000056 V V"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -394,7 +394,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer34"
-       inkscape:label="U+000055 U"
+       inkscape:label="U+000055 U U"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -406,7 +406,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer33"
-       inkscape:label="U+000054 T"
+       inkscape:label="U+000054 T T"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -418,7 +418,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer32"
-       inkscape:label="U+000053 S"
+       inkscape:label="U+000053 S S"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -430,7 +430,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer31"
-       inkscape:label="U+000052 R"
+       inkscape:label="U+000052 R R"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -443,7 +443,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer30"
-       inkscape:label="U+000051 Q"
+       inkscape:label="U+000051 Q Q"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -456,7 +456,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer29"
-       inkscape:label="U+000050 P"
+       inkscape:label="U+000050 P P"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -469,7 +469,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer28"
-       inkscape:label="U+00004F O"
+       inkscape:label="U+00004F O O"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -482,7 +482,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer27"
-       inkscape:label="U+00004E N"
+       inkscape:label="U+00004E N N"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -494,7 +494,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer26"
-       inkscape:label="U+00004D M"
+       inkscape:label="U+00004D M M"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -506,7 +506,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer25"
-       inkscape:label="U+00004C L"
+       inkscape:label="U+00004C L L"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -518,7 +518,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer24"
-       inkscape:label="U+00004B K"
+       inkscape:label="U+00004B K K"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -530,7 +530,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="U+00004A J"
+       inkscape:label="U+00004A J J"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -542,7 +542,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer22"
-       inkscape:label="U+000049 I"
+       inkscape:label="U+000049 I I"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -554,7 +554,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer21"
-       inkscape:label="U+000048 H"
+       inkscape:label="U+000048 H H"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -566,7 +566,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer20"
-       inkscape:label="U+000047 G"
+       inkscape:label="U+000047 G G"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -579,7 +579,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer19"
-       inkscape:label="U+000046 F"
+       inkscape:label="U+000046 F F"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -591,7 +591,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer18"
-       inkscape:label="U+000045 E"
+       inkscape:label="U+000045 E E"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -603,7 +603,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer17"
-       inkscape:label="U+000044 D"
+       inkscape:label="U+000044 D D"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -616,7 +616,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer16"
-       inkscape:label="U+000043 C"
+       inkscape:label="U+000043 C C"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -628,7 +628,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="U+000042 B"
+       inkscape:label="U+000042 B B"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -641,7 +641,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer14"
-       inkscape:label="U+000041 A"
+       inkscape:label="U+000041 A A"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -654,7 +654,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="U+000039 9"
+       inkscape:label="U+000039 9 nine"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -667,7 +667,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer10"
-       inkscape:label="U+000038 8"
+       inkscape:label="U+000038 8 eight"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -680,7 +680,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer9"
-       inkscape:label="U+000037 7"
+       inkscape:label="U+000037 7 seven"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -692,7 +692,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer8"
-       inkscape:label="U+000036 6"
+       inkscape:label="U+000036 6 six"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -705,7 +705,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="U+000035 5"
+       inkscape:label="U+000035 5 five"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -717,7 +717,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="U+000034 4"
+       inkscape:label="U+000034 4 four"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -730,7 +730,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="U+000033 3"
+       inkscape:label="U+000033 3 three"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -742,7 +742,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer4"
-       inkscape:label="U+000032 2"
+       inkscape:label="U+000032 2 two"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -754,7 +754,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer1"
-       inkscape:label="U+000031 1"
+       inkscape:label="U+000031 1 one"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -766,7 +766,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="U+000030 0"
+       inkscape:label="U+000030 0 zero"
        style="display:inline">
       <path
          id="path2"
@@ -778,7 +778,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer12"
-       inkscape:label="U+000020  "
+       inkscape:label="U+000020   space"
        style="display:none"
        sodipodi:insensitive="true">
       <path
